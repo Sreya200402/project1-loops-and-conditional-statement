@@ -24,7 +24,7 @@ account_number : [name, balance, pin]
 Example:
 '62433570421': ['Reena', 3000, 1234]
 
-##How to Run
+**How to Run**
 Make sure you have Python 3 installed.
 Clone the repository or download the file.
 Open terminal or command prompt, navigate to the folder, and run:
@@ -32,10 +32,10 @@ python "project1 - loops and conditional statement.py"
 Follow the on-screen instructions to log in and perform transactions.
 
 
-#Notes
+**Notes**
 You have 3 attempts to enter the correct PIN.
 The program stores transactions in a list for the mini statement.
 Only valid inputs are accepted for transactions and PIN changes.
 
-Author
+**Author**
 Sreya200402
