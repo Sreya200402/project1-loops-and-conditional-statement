@@ -25,6 +25,7 @@ The program uses a **dictionary** to store user accounts in the format:
 account_number : [name, balance, pin]
 Example: '62433570421': ['Reena', 3000, 1234]
 
+---
 
 ### 🧩How to Run
 
@@ -35,10 +36,18 @@ Example: '62433570421': ['Reena', 3000, 1234]
     python "project1 - loops and conditional statement.py"
 5.Follow the on-screen instructions to log in and perform transactions
 
-**Notes**
-You have 3 attempts to enter the correct PIN.
-The program stores transactions in a list for the mini statement.
-Only valid inputs are accepted for transactions and PIN changes.
+---
 
+## 📝 Notes
 
-Author - Sreya200402
+- You have **3 attempts** to enter the correct PIN.  
+- The program stores **transactions** in a list for the mini statement.  
+- Only **valid inputs** are accepted for transactions and PIN changes.
+
+---
+
+## 💬 Author
+
+**Sreya**  
+
+👩‍💻 GitHub: [@Sreya200402](https://github.com/Sreya200402)  
